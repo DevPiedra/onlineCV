@@ -12,7 +12,7 @@ import useGetData from '../hooks/useGetData';
 
 const GlobalStyle = createGlobalStyle `
     body {
-        font-family: 'Lato', sans-serif;
+        font-family: 'Roboto Condensed', sans-serif;
         margin: 0;
         padding: 0;
         background: #f5f5f5;

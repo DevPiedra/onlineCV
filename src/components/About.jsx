@@ -25,18 +25,18 @@ const AboutName = styled.div`
 `;
 
 const AboutH2 = styled.h2`
-    font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
     font-weight: 400;
     letter-spacing: 1.2px;
     margin: .5em 0 0 0;
-    color: #193cd7;
+    color: #0404B4;
 `;
 
 const AboutProfession = styled.p`
     margin: .2em 0 1em 0;
     letter-spacing: 1.6px;
     font-weight: 300;
-    color: #C2185B;
+    color: #0000FF;
 `;
 const AboutBio = styled.p`
     color: #757575;
