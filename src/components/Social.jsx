@@ -43,11 +43,16 @@ const github = {
     color: "#333"
 }
 
+const twitch = {
+    color: "#6441A4"
+}
+
 const getColor = (name) =>{
     if (name == 'facebook') return facebook;
     if (name == 'twitter') return twitter;
     if (name == 'linkedin') return linkedin;
     if (name == 'github') return github;
+    if (name == 'twitch') return twitch;
 }
 
 const Social = props => (
