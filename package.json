@@ -24,9 +24,11 @@
     "@babel/preset-env": "^7.9.0",
     "@babel/preset-react": "^7.9.4",
     "babel-loader": "^8.1.0",
+    "lodash": "^4.17.19",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "styled-components": "^5.1.0"
+    "styled-components": "^5.1.0",
+    "url-regex": "^5.0.0"
   },
   "devDependencies": {
     "babel-plugin-transform-class-properties": "^6.24.1",
