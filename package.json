@@ -28,7 +28,7 @@
     "glob-parent": "^6.0.2",
     "jpeg-js": "^0.4.3",
     "lodash": "^4.17.21",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "node-forge": "^1.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
